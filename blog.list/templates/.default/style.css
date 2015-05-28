@@ -1,0 +1,31 @@
+.question {
+    border-bottom: 2px solid #ee5925;
+    border-right: 2px solid #ee5925;
+    padding: 10px 10px 27px 40px;
+    background: url('images/corner-red-questions.png') left top no-repeat;
+    margin-bottom: 10px;
+    clear:both;
+    height:100px;
+    overflow: hidden;
+    margin-right: 20px;
+}
+.chat-expert-photo, .chat-information {
+    float:left;
+}
+
+.chat-expert-photo {
+    width: 100px;
+}
+
+.chat-information {
+    padding-left: 30px;
+    height:100px;
+    overflow: hidden;
+}
+
+.chat-header {
+    margin-bottom: 7px;
+}
+
+
+

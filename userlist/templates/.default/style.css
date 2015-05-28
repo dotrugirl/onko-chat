@@ -1,0 +1,17 @@
+.user-list-item {
+    float: left; width: 27%;
+    padding: 20px;
+    height: 550px;
+    overflow: hidden;
+}
+
+
+.expert-ask-question {
+    text-align: right;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.expert-ask-question>a {
+    color: #8e1a06!important;
+}

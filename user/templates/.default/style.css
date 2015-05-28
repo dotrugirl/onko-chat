@@ -1,0 +1,27 @@
+.user-photo, .user-information {
+    float: left;
+    position: relative;
+}
+
+.user-photo {
+    width: 25%;
+}
+
+.user-information {
+    width: 65%;
+    padding-left: 30px;
+}
+
+.user-work-profile {
+    margin-top: 30px;
+}
+
+.expert-ask-question {
+    text-align: right;
+    margin-top: 20px;
+}
+
+.expert-ask-question>a {
+    color: #8e1a06!important;
+}
+
